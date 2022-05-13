@@ -1,0 +1,9 @@
+name: azure-waf
+type: terraform
+description: Module to provision waf on azure
+tags:
+  - tools
+  - devops
+versions: []
+cloudProvider: azure
+id: github.com/cloud-native-toolkit/terraform-azure-waf
