@@ -1,4 +1,4 @@
-name: azure-ap-gw
+name: azure-app-gw
 type: terraform
 description: Module to provision an application gateway on azure
 tags:
