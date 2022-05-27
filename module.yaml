@@ -1,6 +1,6 @@
-name: azure-waf
+name: azure-ap-gw
 type: terraform
-description: Module to provision waf on azure
+description: Module to provision an application gateway on azure
 tags:
   - tools
   - devops
